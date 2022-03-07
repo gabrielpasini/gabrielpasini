@@ -15,9 +15,9 @@ Me siga e acompanhe meus projetos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pasini-963006180/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pasini.dev/)
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpasini&hide=java,objective-c&layout=compact&theme=github_dark)]()
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpasini&hide=java,objective-c&layout=compact&theme=github_dark" alt="TopLangs" />
 
-[![Rank](https://github-readme-stats.vercel.app/api?username=gabrielpasini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)]()
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielpasini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true" alt="Commits" />
 
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=gabrielpasini&color=blue&label=visitas" alt="gabrielpasini" />
